@@ -20,7 +20,9 @@ If you find BNN-PYNQ useful, please cite the <a href="https://arxiv.org/abs/1612
 
 In order to install it your PYNQ, connect to the board, open a terminal and type:
 
+```bash
 sudo pip3.6 install git+https://github.com/Xilinx/BNN-PYNQ.git (on PYNQ v2.0
+```
 
 This will install the BNN package to your board, and create a **BNN** directory in the Jupyter home area. You will find the Jupyter notebooks to test the BNN in this directory. 
 
